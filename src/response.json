@@ -1,0 +1,31 @@
+{
+  "coord": { "lon": -86.8025, "lat": 33.5207 },
+  "weather": [
+    { "id": 500, "main": "Rain", "description": "light rain", "icon": "10n" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 288.96,
+    "feels_like": 289,
+    "temp_min": 286.81,
+    "temp_max": 290.28,
+    "pressure": 1017,
+    "humidity": 92
+  },
+  "visibility": 10000,
+  "wind": { "speed": 2.47, "deg": 338, "gust": 4.12 },
+  "rain": { "1h": 0.42 },
+  "clouds": { "all": 100 },
+  "dt": 1699617320,
+  "sys": {
+    "type": 2,
+    "id": 2046509,
+    "country": "US",
+    "sunrise": 1699618440,
+    "sunset": 1699656499
+  },
+  "timezone": -21600,
+  "id": 4049979,
+  "name": "Birmingham",
+  "cod": 200
+}
